@@ -14,8 +14,8 @@ It is not very tidied up.
 ### 2. Jupyter Notebooks
 - **Toy Examples**: Simple implementations to understand and experiment with generative techniques.
 - Topics covered:
-  -Variational Autoencoder
-  -GANS
+  - Variational Autoencoder (VAE)
+  - GANS
   - Basic diffusion model simulations.
   - Classifier and classifier free-guidance
 
