@@ -21,5 +21,3 @@ The project is in the **research phase**, focusing on understanding and leveragi
 ### 3. Interesting 
 When working on VAE, I created these simple toy manifestations, from [the VAE paper](https://arxiv.org/abs/1312.6114)
 ![Leanred MNIST Manifold](./images/manifold.png)
-![Dream of 2](./images/2dream.gif)
-![Dream of 5](./images/5dream.gif)
