@@ -17,4 +17,7 @@ The project is in the **research phase**, focusing on understanding and leveragi
   - GANS
   - Basic diffusion model simulations.
   - Classifier and classifier free-guidance
+ 
+### 3. Interesting 
+![Leanred MNIST Manifold](Jupyter Notebooks/VAE Dreams/Latent Space Manifold with VAE depth 2.png)
 
